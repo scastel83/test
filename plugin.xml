@@ -96,4 +96,3 @@
 
   </platform>
 </plugin>
-<plugin name="BarcodeScanner" value="com.phonegap.plugins.barcodescanner.BarcodeScanner"/>
